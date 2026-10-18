@@ -2,60 +2,62 @@
   <img src="./banner.svg" width="100%" alt="Daniel Alves · Dev | Automações | Founder da NAV"/>
 </p>
 
-<img src="https://media.giphy.com/media/5NE2L7vdWZ9V39Sjq8/giphy.gif" align="right" width="280" alt="coding"/>
+## Sobre
 
-### Prazer, Daniel.
+<img src="https://media.giphy.com/media/5NE2L7vdWZ9V39Sjq8/giphy.gif" align="right" width="230" alt="coding"/>
 
-Sou desenvolvedor e data analyst na **Nobrelar Homecenter** e founder da **NAV**. Estudo na **Universidade Federal do Ceará (UFC)**.
+Desenvolvedor e Data Analyst na **Nobrelar Homecenter**, onde também lidero as frentes de **CRM e processos**. Founder da **NAV**.
+
+Atuo na interseção entre tecnologia, finanças e operação comercial: transformo dado operacional em informação financeira confiável, automatizo processos que impactam margem e custo e estruturo os indicadores que sustentam decisões de negócio.
+
+Meu trabalho vai do levantamento do problema à entrega em produção: integrações entre sistemas, automações, painéis de gestão e a camada de dados que conecta tudo isso.
 
 <br clear="right"/>
 
 <p align="center">
-  <img src="./sobre.svg" width="100%" alt="whoami: Daniel Alves"/>
+  <img src="./daniel-ts.svg" width="100%" alt="daniel.ts"/>
 </p>
 
-## O que eu faço
+## Finance × Tech
 
-<img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" align="right" width="300" alt="hackerman"/>
-
-- **Automações:** ERP, CRM e WhatsApp conversando entre si, inclusive sistema que não tem API.
-- **Dados:** análise, painéis financeiros e dashboards que mostram onde a empresa ganha e onde perde.
-- **Resolução de problemas:** primeiro entendo a causa, depois escrevo o código.
-- **Liderança:** desenho fluxo, treino o time e acompanho resultado de perto.
-
-<br clear="right"/>
+- **Inteligência financeira:** dashboards de receita, margem, custo e fluxo de caixa, com KPIs para decisão.
+- **Pricing & margem:** precificação automatizada a partir da nota fiscal de compra, com proteção de margem.
+- **Automação com ROI:** processos integrados entre ERP, CRM e WhatsApp, reduzindo custo operacional e retrabalho.
+- **Growth & RevOps:** CRM e funil comercial estruturados para escalar receita com previsibilidade.
+- **Liderança:** gestão de CRM e processos, padronização de fluxos e capacitação de equipe.
 
 ## NAV
 
-A **NAV** existe pra tirar empresa do manual e do achismo. A gente entra com dados e automação: painel financeiro, dashboard completo e processo rodando sozinho, sempre de olho no crescimento.
+A **NAV** é uma empresa de tecnologia que resolve problemas de negócio de ponta a ponta. Partimos do diagnóstico, chegamos à causa raiz e entregamos o sistema completo, do desenvolvimento à implantação.
 
-Bastidores e cases no Instagram: [@navhubce](https://www.instagram.com/navhubce/)
+- **Diagnóstico:** entendimento do problema e da causa raiz antes de qualquer linha de código.
+- **Sistemas sob medida:** soluções completas, do back-end ao painel de gestão, integradas à realidade do cliente.
+- **Dados e finanças:** painéis financeiros e indicadores para acompanhar resultado e crescer com previsibilidade.
 
-## Aprendendo agora
+Cases e bastidores: [@navhubce](https://www.instagram.com/navhubce/)
 
-- Java e Programação Orientada a Objetos
-- Circuitos Digitais
-- Arquitetura de Computadores
+## Stack
 
-## Certificações
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
+</p>
+
+## Formação
+
+- **Universidade Federal do Ceará (UFC)** · graduação em andamento
+- **NVIDIA Deep Learning Institute** · Fundamentals of Machine Learning
+- **Em estudo:** Java e Programação Orientada a Objetos, Circuitos Digitais e Arquitetura de Computadores
+- **Projeto em andamento:** [POO em Java](https://github.com/alvsdaniel/POO)
 
 <img src="https://img.shields.io/badge/NVIDIA%20DLI-Fundamentals%20of%20Machine%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
-## Em construção
+## Contribuições
 
-Um projeto de Programação Orientada a Objetos em Java, pra faculdade. O histórico fica em [alvsdaniel/POO](https://github.com/alvsdaniel/POO).
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alvsdaniel/alvsdaniel/output/snake-dark.svg" width="100%" alt="snake comendo as contribuições"/>
+</p>
 
-## Linguagens
-
-<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
-
-## Bora conversar
+## Contato
 
 <a href="https://www.linkedin.com/in/daniel-alves-0039a93a3/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logoColor=00FF41"/></a>
 <a href="https://www.instagram.com/navhubce/"><img src="https://img.shields.io/badge/NAV%20no%20Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=00FF41"/></a>
-
-## Meus números no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvsdaniel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41"/>
-</p>
