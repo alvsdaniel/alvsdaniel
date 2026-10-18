@@ -8,8 +8,6 @@
 
 Sou desenvolvedor e data analyst na **Nobrelar Homecenter** e founder da **NAV**. Estudo na **Universidade Federal do Ceará (UFC)**.
 
-Meu trabalho é olhar pra uma operação, achar onde o tempo está indo embora e construir o sistema que devolve esse tempo. Na Nobrelar eu também lidero CRM e processos, então fico no meio do caminho entre o código e as pessoas que usam o que eu construo.
-
 <br clear="right"/>
 
 <p align="center">
