@@ -1,68 +1,93 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=210&section=header&text=Fala%2C%20eu%20sou%20o%20Daniel!&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=automatizo%20o%20chato%20pra%20sobrar%20tempo%20pro%20legal&descAlignY=58&descSize=17" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=B388FF&center=true&vCenter=true&width=640&lines=Se+voc%C3%AA+faz+todo+dia+na+m%C3%A3o%2C+eu+automatizo+%F0%9F%A4%96;Converso+mais+com+IA+do+que+com+gente+%F0%9F%98%85;Planilha+boa+%C3%A9+planilha+que+virou+dashboard+%F0%9F%93%8A;Fundador+da+NAV+%F0%9F%9A%80;Aprendendo+POO+em+p%C3%BAblico+%E2%80%94+me+cobra!" alt="typing"/>
-
-</div>
-
-## 🧑‍💻 Quem é esse cara
-
-Sou o Daniel. Comecei resolvendo problema de operação e quando vi já tava escrevendo código pra não precisar resolver o mesmo problema duas vezes. Hoje meu dia é meio a meio: **liderando CRM e processos** com gente de verdade e **construindo automações e agentes de IA** pra essa gente trabalhar menos no repetitivo.
-
-Também fundei a **NAV** 🚀, onde a gente pega os dados bagunçados de uma empresa e transforma em **painéis financeiros e dashboards** que mostram onde tá o dinheiro, onde tá o vazamento e onde dá pra crescer.
-
-```ts
-const daniel = {
-  cargo: ["Dev de automações", "CRM & Processos", "Fundador @ NAV"],
-  vicios: ["café", "Claude", "transformar planilha em dashboard"],
-  estudandoAgora: "Programação Orientada a Objetos",
-  frasePreferida: "isso aí dá pra automatizar",
-};
+```
+                             .:;,   . .     ,,.:;;.    .. .
+                            .. .,       ...    . ..  .,,;:..:,
+                              ...      ....,.,,,:.     ..,,..,.,
+                             ..  .;i..,.  .,::;,.              ..
+                          . ..  .  .         ...... ....,,  .,,
+                                  ....,....... .,,.....,,,,,.,,:.
+                       .  .  ...,,,,.i:,::;,,,,,,,,,,....,:::;,,,
+                      .  ..:,,,::,:;:ii:;,,,.,......,,... ,,
+                    .  .. :i;ii1ttf1:::t:1:,.:;,.......... .
+                   .. .,.:1tLLC0GG8f:;:ft;1;:.,;ti,.,,. ....
+                .:,.,.,.1LLCCCGGGG80:;;;1ftft1ti;;::..,,......  .
+                ,:,,,,.1GLCCG00888@@GLfLL0@@@@@@@888G1,,.....,,. .
+              .,ift:,.t011111ttftfLC88@@@@@@@@@@@@@@@@8L1;:, .,,,..  ,,.
+              .:i1C1 iL:;;;;:,,,,::;ttC0088@@@@@@@8@888@@00Gfi:,;,.. ., ...
+             .:ittffit1fLffffti;::::itfLG000800GfLfttffCG00GGGCL;:;.   ,:..
+             .,;1ftfff1111tffCGL1;:;::;tLLCCCLfti;;::::::i1ffCCi:ii.... . ..
+             ,i111tCf11iii1i111tt1i:i1i1ffLft1;;;;;::::::::,:;Li;i1.... . ..
+             ,ifCt8GffL11;:;i,;,;ii1t1;tG0Ct;it;;11tfffftft11:,,11f: ........
+            .,itG1fG;GCftt11;i1111ftGiiCGGC1i;t1;iitLGGCLt111t1:;1ti ,  ;.,,.
+            .,i1001LLffLCCLLfftttttC;10GG0C11i1Lti1i,::;ii;;iiii;it; .:tLif1;
+             ,i1C8ttLLG0GGCCCCCCCCCt1GGGCLL1:11i11i11i:;:,:::1t1iif, iLCCGf:.
+             ,i;L81GC0GCGGGGG0000LttC000GLfftLLftttiiii;;;;1111ti1t,:L80G81,.
+             ,:i@fL8GCGGGG000G0GLCCG08@@8Gtt1fCLCLLLLLLLfftfLfffiL:,tt1G00GL:.
+             .:i01C000088880008tLLL080000GfLCiL0GGCCLLCCCGCfffLt11:ffi:8@0Ci,.
+             .:iifLG00888888088;;,,1LLLLt1tLCtiLGG0GGCCCLGGCf1fti:i1::tfLGt:,
+              ,itffLG0000000008L1f1::;:::,,:i:i0G0GG0GGGCCGCL1tt;::GffCtti;;.
+              .:11ftLGGGG00GGCGGCG@8t1tfCf111iG8G008800GGCGCfLtii;1@ffffLt;..
+               ,iifttLCCCGCLLCCG08@GGLG@@GGLC00GG00088800GLLfLt;;1GGfCLLf1;,
+               .:;1fifLCLLLG000GCC000808@00LLCCG0000000GGCCftt1:CCGtfLLLti,
+                .;;f11LCCC1it;;::;;iLftt1L00CLCLCGGGGCGCLff1t1;1GGCGGLfti:.
+                .,,tt;tLLC8C;i1tfti;::::;::1CGft1ffLLLLt111111;tCG00GGCt;.
+                   ;fi;fLCC0Lt1tL0GGG00Cft1;:;;1CGffff1ii111t1.,,;1LGCt;,
+                    ititLCCCLfttfLCLCGGL111tfC0GCLfLf1;;i1ii1.,,,,..,:;,
+                     i11LCCGCfti;ii;i1111fftLGGCLfft;;;1ii;1,.,,,,,,.
+                     .,ifLG0000GGCLft1111ttfLLLLfti;;iii;;:1: ,.....
+                       ,ifC08888@@@8880GLLCCLLft1i;;ii;;;::i; ....
+                        .;tC0888880800000CGCfft1i;;;;::;;;:ii ,.
+                          ,ifC0888800000GCCfft1;;;;:;;;;;;:1i .
+                           .,;1LfLGCGCCCCLLt1;:;;;;;;ii;;;;i,
+                            ,;;;iiiiii1111i;;;;;;iiiiiiitii1
+                           .:111tt1iii;;;;;;;i;iiiiii1fft1f:
+                         ..,:1ttt111iiiiiii;iii1111tfLfftLf ..
+                     ..,:;:;;1tL1iiiiiiiiiii11t11tfLLLffLC..,.....
+                 ,,,;:;i11iiiiiii111iiiiii1ttt1ttfCLLLLfC: ,,,,.,,  .
+                 t1;1ti1t1iii111ttt1111111tttttffLLCLfLC; .,..,,.  .....
+            .... CG1if11111ii111ttt111111tttttfffLLfLGL, .,.,,.   ,...........
+          ....,. 1@Ltt11ttt1111111111111ttttffffffLCL;  ...,,    ,...........
+         .....,,. 0@LLi;11tt111i1111111tttttttffff1:   ...,.    ..........   .....
+        .......,. .C@8L:;i111iiiiiii111111tttti;,    .. ..      ..................
+       .........,.  10@Ci::::::::;;;ii111ii;,.     .. ...        ...... .....  ...
+       ............   ;fLti;:,..,,,,::,,.            ..         ........       ....
+         ............    .,,....                   ...    ..  ... .....     ........
+         ........   ..                            ..   ..   ...   ....      .........
 ```
 
-## ⚡ Fatos aleatórios
+### Daniel Alves
 
-- 🤖 Já fiz uma IA conversar com um ERP que **nem tinha API**. Ela pediu desculpas, mas foi.
-- 💬 Montei agente de vendas que responde no WhatsApp mais rápido que eu respondo minha mãe.
-- 📊 Acredito que todo dono de empresa merece um dashboard que ele entenda em 10 segundos.
-- 📚 Tô começando a movimentar esse GitHub agora, então se você caiu aqui cedo: **seja bem-vindo à fase beta** 😄
+Dev de automação e IA. Lidero CRM e processos numa operação comercial e uso o resto do tempo escrevendo código pra tirar trabalho repetitivo da mão das pessoas.
 
-## 🧰 Minha caixa de ferramentas
+Fundador da **NAV**, empresa de tecnologia focada em dados: análise, painéis financeiros e dashboards pra empresas que querem crescer sabendo exatamente onde estão.
 
-<div align="center">
+#### O que eu faço
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,python,react,vite,tailwind,nodejs,express&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=cloudflare,vercel,git,github,vscode&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
-<img src="https://img.shields.io/badge/WhatsApp%20Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dashboards-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+- Agentes de IA integrados a ERP, CRM e WhatsApp
+- Servidores MCP pra conectar IA a sistemas que nem têm API
+- Dashboards financeiros e comerciais
+- Automação de processo, do diagnóstico à entrega
 
-</div>
+#### Stack
 
-## 🔨 Na bancada agora
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-0d1117?style=flat-square&logo=cloudflareworkers&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-0d1117?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square&logo=modelcontextprotocol&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white"/>
 
-| | Projeto | O que faz |
-|---|---|---|
-| 🧠 | **Agente de vendas** | Atende e vende pelo WhatsApp, consultando estoque e preço em tempo real |
-| 🔌 | **MCP para ERP** | Dá superpoderes pra IA ler vendas, estoque e produtos direto do sistema |
-| 📈 | **Dashboard comercial** | Vendas e margem num painel que até o financeiro gosta |
-| 🧾 | **Precificador de NF-e** | Lê o XML da nota, calcula preço com proteção de margem e lança no ERP |
-| ☕ | **[POO](https://github.com/alvsdaniel/POO)** | Projeto de Orientação a Objetos em Java, construído em público |
+#### Agora
 
-## 🤝 Bora trocar ideia
+- Projeto de POO em Java → [POO](https://github.com/alvsdaniel/POO)
+- Agente de vendas no WhatsApp ligado a estoque e preço em tempo real
+- Painéis da NAV
 
-<div align="center">
+#### Contato
 
-<a href="https://www.linkedin.com/in/daniel-alves-0039a93a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br/><br/>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=110&section=footer" width="100%"/>
-
-</div>
+<a href="https://www.linkedin.com/in/daniel-alves-0039a93a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
