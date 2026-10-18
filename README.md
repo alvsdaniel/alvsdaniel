@@ -61,7 +61,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=alvsdaniel&label=visitas%20no%20perfil&color=7F00FF&style=flat" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=110&section=footer" width="100%"/>
 
