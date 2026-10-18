@@ -1,115 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Daniel%20Alves&fontSize=58&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20Lideran%C3%A7a&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:30363d&height=180&section=header&text=Daniel%20Alves&fontSize=56&fontColor=c9d1d9&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor;Processo+manual+vira+fluxo+autom%C3%A1tico;Problema+dif%C3%ADcil+%C3%A9+o+meu+preferido;Liderando+CRM+e+processos;Fundador+da+NAV" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=Dev+%7C+Automa%C3%A7%C3%B5es+%7C+Founder+da+NAV" alt="Dev | Automações | Founder da NAV"/>
 
 </div>
 
-```
- :-----=-...:::::::::::              .:--=*-.....:....::-=-... .. .....:-----:::..
- :------:...::::::::...             .:::::.-:............:::. .:--::::..:----------::..
- :----:::...:::........             .... .:.    ...:-------.    .--:---:.. ..------------:..
- :-----:...:::::::::...            ......:...--:::.. .---:.......  . ...........::----------::.
- :=-------::-::::::::..           ......:.:..:...:..    .:...::::-..:--. ..... ......:--------:
- =#*+=-----------::::...         ............-----------:---------------:.   . ..........::---:
- +@@@@#**==--------::.....      ......::--======+++++===--------::------.. .  ..  . .........:.
- +@@@@@@@@%#*+-------:::::...........--+++**********==-----------::-:.....   .....  ..........
- +@@@@@@@@@@@@@#+==----=+**--:::::::--+*##%%%%#**+#*#+==*=-----:::::........ .....  ..........
- +@@@@@@@@@@@@@@@@%#*####****++=----=*#%@@@@@@@##**%###*++**=-----:::.........................
- +@@@@@@@@@@@@@@@@@@@@@@@@@%*++==--=#%%@@@@@@@@%%#%%@@@@@@@%%#+==---:::.......................
- +@@@@@@@@@@@@@@@@@@@@@@@@@@%##*+==#%%#%@@@@@@@@@@@@@@@@@@@@@@@%*++-------:...................
- +@@@@@@@@@@@@@@@@@%%@@@@@@@@@%%*=*#********##%%@@@@@@@@@@@@@@@@@@%%*==+=-::-:::::-:::::::....
- +@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@#*#%%%%%%#****##%@@@@@@@@@@@@@@@@@@@%%##++-:::------------:...
- +@@@@@@@@@@@@@@@@@@@@@@@@%%%@@%@@@%%%%%%%%######%%%@@@%%%%#*#***##%%%%#**=--::::----===-----:.
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@%%%##*****#####%#%%%%%%###**********#####+--:::------==------.
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@%%####++*#*#%%#@@@%#%@##%%%%%%%%%#***##*--:----------------:
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@%%%%####%%%%%@@@@%##%#####%%%######*##*---=-=+=-----------:
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@%%%%%%%%#@@@@%###%##*++++***#####%*=-*%%%%*=----=+++==:
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@%%#%#%####******######*=#@@@@*+====***#*+=:
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@%%%%%%%%%######%%%%%#*#@@@@@@**++**+*+*++-
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@%%%%@@@%%%@@@%%%%%%%**###@@@@@@@@%%#*****-
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*#%@@@@%%%%%%@@@@@@@@@@@%%%%#*###@@@@@@@@@@@@@@@#*-
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#***####***###@@@@@@@@@@@%%%%####%@@@@@@@@@@@@@@@@@+
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@%#########%@@@@@@@@@@@@%%###@@@@@@#%@@@@@@@@@@@@+
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@%@@@%%%%@@@@@@@@@@@@%%%%#%@@@@@@@%%#@@@@@@@@@@+
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%#%@@@@@@@@@@@@@@@@%@@@@+
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@%%%#####@@@@@@@@@@@%@@@@@@@@@%%%%%@@@%@@@@@@@@@@@@@@@@@@+
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%@@@#***##**#*####%@@@@@@@@@@%%%%%%#@@@@@@@@@@@@@@@@@@@@@@@+
- +@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*%%%%%@@@%###@@%%%###***##%@%%%%%%%%%##==*@@@@@@@@@@@@@@@@@@@@@+
- +@@@@@@@@@@@@@@@@@@@@@@%%#**+==+#%%%@@@%%#%%@@@@@%####%%@@%%%%###%#*=====+*#%@@@@@@@@@@@@@@@@+
- +@@@@@@@@@@@@@@@@##*===-===----=+%%%@@@@%%#####%%%%%%%@@@%%%#######+-----=====#@@@@@@@@@@@@@@+
- +@@@@@@%#**+++=-----------------=#%%@@@@@@@@%%%##%%%%%@@%%%#######*+--------====+*%@@@@@@@@@@+
- =%%+====------------------:-----=##%@@@@@@@@@@@@@@%@@%%%%#######*##+--:-------======*@@@@@@@@+
- -+----------------------:::-----+###%@@@@@@@@@@@@@@@@%%%%####**####*---------==========#%@@@@+
- :--:-----------------:..::--::--*##%#%@@@@@@@@@@@@@@%%%############*----------==========++#@@+
- :--::-:----------:--....:---:--=*########@@@@@@@@@@%###############+------::---==========+++#=
- :--:::::--------::....::---:---*###%###%%######################%%##=--------:---==+========++-
- .:::::::----:-::.....:::---:--+###%%%##%%%%%%##############%#%%%%#+--------:----------=======:
- .:::::::::::::.....:::-:---:--*####%%###%%###%########%%%%%%%%%%%*--------:-------::::--=====:
-  ::::::.:::::.....::::::-----=##%#%%%##%%%%##%%######%%%%%%%%%%%#+-------:::::---:--::----===:
- .:::::..:::.....::::::::-----*%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@%%#+-------..:::::::::---------=:
- .::::..........::::::::------*%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@%#+------...:::::::-:::::-------:
- .:...........:::::::::::-----*@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*-::---:...::::::::-::........::.
- .............:::::::::::-----=%@@%%%%%%%%%%%%%%%%%%%%%%%%#*+-:::---....:::::::::.....:::-----.
-  ...........::::::::::::------+@@@%##%%%#####%%%%%%%%%##+-:..::::.. ..:::::::::::::::::::----:
-  ...........::::::::::::-------=*@@####********####**+-:.....:::.  ..:::::::::::::::::::::---:
-  .   ......::::::::::::::--:::::--+%##*+---==++++-::........:::  ..:::::::::::::::::::::::::-:
-      ......::::::::::::::::::::::..:-----::................::.  .::::::::::::::::::::::------:
-     .......:::::::::::::::::::::::.............  .........::. .::::::::::::::::::::::--------:
-```
-
 ## Sobre mim
 
-Sou desenvolvedor, com foco em automação e processos. Na prática, isso significa chegar numa operação, entender onde o time está perdendo tempo e construir o que for preciso pra esse tempo voltar: integração entre sistemas, atendimento automatizado no WhatsApp, painel, rotina que roda sozinha.
+Sou o Daniel Alves. Trabalho com automação e processos, e hoje lidero CRM e processos numa operação comercial. Meu trabalho é pegar o que é feito na mão e transformar em sistema que roda sozinho.
 
-Hoje lidero CRM e processos numa operação comercial. Fico entre quem usa o sistema na ponta e o código que faz tudo funcionar, e é exatamente aí que eu gosto de estar.
+## NAV
 
-Também sou fundador da **NAV**, onde a gente transforma dado espalhado em análise, painel financeiro e dashboard, pra empresa crescer sabendo onde está pisando.
+Sou um dos fundadores da **NAV**, uma frente tecnológica para empresas que querem sair do manual e crescer com dados:
 
-## O que eu faço de melhor
+- **Dados:** análise, painéis financeiros e dashboards completos.
+- **Automação:** integração entre sistemas, CRM e WhatsApp na rotina da empresa.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+Os bastidores ficam no Instagram da NAV: [@navhubce](https://instagram.com/navhubce).
 
-**Automação**
+## O que eu faço
 
-Processo manual vira fluxo automático. Integro ERP, CRM e WhatsApp, inclusive sistema que não tem API pronta.
+- **Automações:** ERP, CRM e WhatsApp conversando entre si, inclusive sistema sem API.
+- **Resolução de problemas:** primeiro entendo a causa, depois escrevo o código.
+- **Liderança:** lidero CRM e processos, desenho fluxo, treino o time e acompanho resultado.
 
-</td>
-<td width="33%" valign="top">
+## Em construção
 
-**Resolução de problemas**
+Um projeto de Programação Orientada a Objetos em Java, para a faculdade. O histórico fica em [alvsdaniel/POO](https://github.com/alvsdaniel/POO).
 
-Gosto de problema cabeludo. Primeiro entendo a causa de verdade, depois escrevo a solução, e não o contrário.
+## Linguagens
 
-</td>
-<td width="33%" valign="top">
+<img src="https://img.shields.io/badge/Python-30363d?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-30363d?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-30363d?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-30363d?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-**Liderança**
+## Vamos conversar
 
-Lidero CRM e processos com gente de verdade: desenho fluxo, treino o time e acompanho resultado de perto.
+<a href="https://www.linkedin.com/in/daniel-alves-0039a93a3/"><img src="https://img.shields.io/badge/LinkedIn-30363d?style=for-the-badge"/></a> <a href="https://instagram.com/navhubce"><img src="https://img.shields.io/badge/NAV%20no%20Instagram-30363d?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-</td>
-</tr>
-</table>
+## Meus números no GitHub
 
-## Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nodejs,tailwind,cloudflare,vercel,git,github,vscode&theme=dark" />
-</p>
-
-## No que estou trabalhando
-
-- Atendimento de vendas automatizado no WhatsApp, ligado ao estoque e ao ERP
-- Precificação automática de nota fiscal com proteção de margem
-- Painéis financeiros e comerciais da NAV
-- [Projeto de POO em Java](https://github.com/alvsdaniel/POO)
-
-## Contato
-
-<a href="https://www.linkedin.com/in/daniel-alves-0039a93a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alvsdaniel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e"/>
+</div>
