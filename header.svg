@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Daniel Alves. Dev, Automações, Founder da NAV">
+<style>
+  .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+  .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .label { font-size: 15px; fill: #00FF41; }
+  .name { font-size: 58px; font-weight: 600; fill: #F0F6FC; letter-spacing: -0.5px; }
+  .sub { font-size: 20px; fill: #8B949E; }
+  .dot { fill: #00FF41; }
+  .b { font-size: 14px; fill: #00FF41; opacity: 0; animation: bin .4s ease-out forwards; letter-spacing: 1px; }
+  @keyframes bin { to { opacity: .45; } }
+  .in { opacity: 0; animation: in .8s ease-out forwards; }
+  @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  .bar { animation: grow .9s ease-out .5s both; transform-origin: 48px 0; }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  .cur { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect x=".5" y=".5" width="999" height="239" rx="10" fill="#0D1117" stroke="#21262D"/>
+<text class="mono label in" x="48" y="62">$ whoami<tspan class="cur">_</tspan></text>
+<text class="sans name in" x="46" y="132" style="animation-delay:.15s">Daniel Alves</text>
+<text class="sans sub in" x="48" y="172" style="animation-delay:.3s">Dev <tspan class="dot">·</tspan> Automações <tspan class="dot">·</tspan> Founder da NAV</text>
+<rect class="bar" x="48" y="194" width="72" height="3" rx="1.5" fill="#00FF41"/>
+<line x1="790" y1="40" x2="790" y2="200" stroke="#21262D"/>
+<text class="b" x="952" y="52" text-anchor="end" style="animation-delay:0.60s">01100001</text><text class="b" x="952" y="69" text-anchor="end" style="animation-delay:0.72s">01110101</text><text class="b" x="952" y="86" text-anchor="end" style="animation-delay:0.84s">01110100</text><text class="b" x="952" y="103" text-anchor="end" style="animation-delay:0.96s">01101111</text><text class="b" x="952" y="120" text-anchor="end" style="animation-delay:1.08s">01101101</text><text class="b" x="952" y="137" text-anchor="end" style="animation-delay:1.20s">01100001</text><text class="b" x="952" y="154" text-anchor="end" style="animation-delay:1.32s">01110100</text><text class="b" x="952" y="171" text-anchor="end" style="animation-delay:1.44s">01101001</text><text class="b" x="952" y="188" text-anchor="end" style="animation-delay:1.56s">01111010</text><text class="b" x="952" y="205" text-anchor="end" style="animation-delay:1.68s">01100101</text>
+</svg>
