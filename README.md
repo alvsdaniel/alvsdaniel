@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Daniel Alves · Dev | Automações | Founder da NAV"/>
+  <img src="./header.svg" width="100%" alt="Daniel Alves · Dev | Automações | Founder da NAV"/>
 </p>
 
 ## Sobre
@@ -59,5 +59,6 @@ Cases e bastidores: [@navhubce](https://www.instagram.com/navhubce/)
 
 ## Contato
 
+<a href="mailto:contatodaniel.as.mendes@gmail.com"><img src="https://img.shields.io/badge/contatodaniel.as.mendes%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
 <a href="https://www.linkedin.com/in/daniel-alves-0039a93a3/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logoColor=00FF41"/></a>
 <a href="https://www.instagram.com/navhubce/"><img src="https://img.shields.io/badge/NAV%20no%20Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=00FF41"/></a>
