@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Daniel%20Alves&fontSize=58&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Automa%C3%A7%C3%A3o%20%C2%B7%20Processos%20%C2%B7%20Lideran%C3%A7a&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Daniel%20Alves&fontSize=58&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20Lideran%C3%A7a&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Processo+manual+vira+fluxo+autom%C3%A1tico;Problema+dif%C3%ADcil+%C3%A9+o+meu+preferido;Liderando+CRM+e+processos;Fundador+da+NAV" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor;Processo+manual+vira+fluxo+autom%C3%A1tico;Problema+dif%C3%ADcil+%C3%A9+o+meu+preferido;Liderando+CRM+e+processos;Fundador+da+NAV" alt="typing"/>
 
 </div>
 
@@ -61,7 +61,7 @@
 
 ## Sobre mim
 
-Trabalho com automação e processos. Na prática, isso significa chegar numa operação, entender onde o time está perdendo tempo e construir o que for preciso pra esse tempo voltar: integração entre sistemas, atendimento automatizado no WhatsApp, painel, rotina que roda sozinha.
+Sou desenvolvedor, com foco em automação e processos. Na prática, isso significa chegar numa operação, entender onde o time está perdendo tempo e construir o que for preciso pra esse tempo voltar: integração entre sistemas, atendimento automatizado no WhatsApp, painel, rotina que roda sozinha.
 
 Hoje lidero CRM e processos numa operação comercial. Fico entre quem usa o sistema na ponta e o código que faz tudo funcionar, e é exatamente aí que eu gosto de estar.
 
