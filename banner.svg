@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Daniel Alves. Dev, Automações, Founder da NAV">
+<style>
+  .name { font: 700 56px 'Courier New', monospace; fill: #00FF41; letter-spacing: 1px; }
+  .sub { font: 20px 'Courier New', monospace; fill: #C9D1D9; }
+  .bin { font: 14px 'Courier New', monospace; fill: #00FF41; opacity: .55; letter-spacing: 1px; }
+  .cursor { fill: #00FF41; animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .reveal { animation: type 4s steps(90) .8s both; }
+  @keyframes type { from { width: 0; } to { width: 900px; } }
+  .fade { animation: fade 1s ease-out both; }
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+</style>
+<defs>
+  <filter id="glow" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="typed"><rect class="reveal" x="50" y="160" height="30" width="900"/></clipPath>
+</defs>
+<rect x=".5" y=".5" width="999" height="219" rx="10" fill="#0D1117" stroke="#00FF41" stroke-opacity=".25"/>
+<text class="name fade" x="500" y="92" text-anchor="middle" filter="url(#glow)">Daniel Alves</text>
+<text class="sub fade" x="500" y="135" text-anchor="middle" style="animation-delay:.3s">Dev | Automações | Founder da NAV<tspan class="cursor">_</tspan></text>
+<g clip-path="url(#typed)"><text class="bin" x="500" y="180" text-anchor="middle">01100001 01110101 01110100 01101111 01101101 01100001 01110100 01101001 01111010 01100101</text></g>
+</svg>
