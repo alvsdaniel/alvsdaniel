@@ -8,11 +8,11 @@
 
 ## Sobre mim
 
-Sou o Daniel Alves. Trabalho com automação e processos, e hoje lidero CRM e processos numa operação comercial. Meu trabalho é pegar o que é feito na mão e transformar em sistema que roda sozinho.
+Sou o Daniel Alves, desenvolvedor e data analyst na Nobrelar Homecenter. Lá eu lidero CRM e processos e trabalho com automação: pego o que é feito na mão e transformo em sistema que roda sozinho.
 
 ## NAV
 
-Sou um dos fundadores da **NAV**, uma frente tecnológica para empresas que querem sair do manual e crescer com dados:
+Sou founder da **NAV**, uma frente tecnológica para empresas que querem sair do manual e crescer com dados:
 
 - **Dados:** análise, painéis financeiros e dashboards completos.
 - **Automação:** integração entre sistemas, CRM e WhatsApp na rotina da empresa.
@@ -25,13 +25,19 @@ Os bastidores ficam no Instagram da NAV: [@navhubce](https://instagram.com/navhu
 - **Resolução de problemas:** primeiro entendo a causa, depois escrevo o código.
 - **Liderança:** lidero CRM e processos, desenho fluxo, treino o time e acompanho resultado.
 
+## O que estou estudando agora
+
+- Java e Programação Orientada a Objetos
+- Circuitos Digitais
+- Arquitetura de Computadores
+
 ## Em construção
 
 Um projeto de Programação Orientada a Objetos em Java, para a faculdade. O histórico fica em [alvsdaniel/POO](https://github.com/alvsdaniel/POO).
 
 ## Linguagens
 
-<img src="https://img.shields.io/badge/Python-30363d?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-30363d?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-30363d?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-30363d?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
 
 ## Vamos conversar
 
