@@ -11,7 +11,7 @@ Sou desenvolvedor e data analyst na **Nobrelar Homecenter** e founder da **NAV**
 <br clear="right"/>
 
 <p align="center">
-  <img src="./terminal.svg" width="100%" alt="Terminal com informações sobre Daniel"/>
+  <img src="./sobre.svg" width="100%" alt="whoami: Daniel Alves"/>
 </p>
 
 ## O que eu faço
@@ -51,8 +51,8 @@ Um projeto de Programação Orientada a Objetos em Java, pra faculdade. O histó
 
 ## Bora conversar
 
-<a href="https://www.linkedin.com/in/daniel-alves-0039a93a3/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logoColor=00FF41"/></a>
-<a href="https://www.instagram.com/navhubce/"><img src="https://img.shields.io/badge/NAV%20no%20Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41"/></a>
+<a href="https://www.linkedin.com/in/daniel-alves-0039a93a3/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logoColor=00FF41"/></a>
+<a href="https://www.instagram.com/navhubce/"><img src="https://img.shields.io/badge/NAV%20no%20Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=00FF41"/></a>
 
 ## Meus números no GitHub
 
