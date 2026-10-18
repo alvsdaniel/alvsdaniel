@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Terminal: Daniel Alves, desenvolvedor e data analyst na Nobrelar Homecenter, founder da NAV, estudante da UFC">
+<style>
+  text { font: 18px 'Courier New', monospace; }
+  .p { fill: #00FF41; opacity: 0; animation: show .01s forwards; }
+  .c { fill: #E6EDF3; }
+  .o { fill: #8BE9A0; opacity: 0; animation: show .3s forwards; }
+  .h { font-size: 14px; fill: #7D8590; }
+  @keyframes show { to { opacity: 1; } }
+  .cur { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect width="1000" height="330" rx="10" fill="#050A06" stroke="#00FF41" stroke-opacity=".3"/>
+<rect width="1000" height="36" rx="10" fill="#0B140D"/>
+<rect y="26" width="1000" height="10" fill="#0B140D"/>
+<circle cx="24" cy="18" r="6" fill="#FF5F56"/><circle cx="44" cy="18" r="6" fill="#FFBD2E"/><circle cx="64" cy="18" r="6" fill="#27C93F"/>
+<text class="h" x="500.0" y="23" text-anchor="middle">daniel@nav: ~</text>
+<text x="30" y="70" class="p" style="animation-delay:0.40s">$</text><clipPath id="c0"><rect x="50" y="50" height="28" width="0" style="animation:typ0 0.50s steps(6) 0.40s forwards"/></clipPath><style>@keyframes typ0 { to { width: 70px; } }</style><text x="50" y="70" class="c" clip-path="url(#c0)">whoami</text><text x="30" y="100" class="o" style="animation-delay:1.15s">daniel alves</text><text x="30" y="130" class="p" style="animation-delay:1.70s">$</text><clipPath id="c2"><rect x="50" y="110" height="28" width="0" style="animation:typ2 0.78s steps(13) 1.70s forwards"/></clipPath><style>@keyframes typ2 { to { width: 147px; } }</style><text x="50" y="130" class="c" clip-path="url(#c2)">cat sobre.txt</text><text x="30" y="160" class="o" style="animation-delay:2.73s">Sou desenvolvedor e gosto de resolver problema de verdade, daqueles</text><text x="30" y="190" class="o" style="animation-delay:3.28s">que travam a operação. Meu trabalho é olhar pra uma empresa, achar</text><text x="30" y="220" class="o" style="animation-delay:3.83s">onde o tempo está indo embora e construir o sistema que devolve esse</text><text x="30" y="250" class="o" style="animation-delay:4.38s">tempo. Fora do código, lidero gente e processo.</text><text x="30" y="280" class="p" style="animation-delay:4.93s">$ <tspan class="cur">█</tspan></text>
+</svg>
